@@ -1,2 +1,4 @@
-"editor.parameterHints.enabled": false, 
-"python.terminal.activateEnvironment": true,
+{
+    "editor.parameterHints.enabled": false,
+    "python.terminal.activateEnvironment": true
+}
